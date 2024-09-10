@@ -17,4 +17,8 @@ This is a simple ASP.NET Core web application that demonstrates how to implement
 ## Requirements
 - .NET 6 SDK or higher
 - A modern web browser
+- 
+## Login with the Test User:
+- Username: testuser
+- Password: password123
 
